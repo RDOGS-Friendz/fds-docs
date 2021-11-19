@@ -1,6 +1,8 @@
 # Friends. Do. Sports. Documentation
 
 
+![](https://shields.io/badge/views-31k-red?logo=youtube&style=social?style=flat-square)
+
 + [Introduction](#introduction)
 + [Demo](#demo)
 + [Development](#development)
@@ -29,8 +31,11 @@ IF, local deployment is still necessary,
 ## Development
 
 ### Frontend
+![](https://shields.io/badge/node-%3E%3D%206.0.0-brightgreen?style=flat-square)
 
 ### Backend
+
+![](https://shields.io/badge/python-v3.9-blue?style=flat-square)
 
 * We have deployed our backend website on <https://fdsbe.icheft.tech/docs> (backup: <https://be.rdogs.dodofk.xyz/docs>). No need to start the server on your local environment.
 * API Brainstorming Documentation can be viewed at <https://hackmd.io/@icheft/S1guJIOBY>
