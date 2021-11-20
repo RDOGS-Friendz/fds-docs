@@ -1,0 +1,6 @@
+[submodule "fds-fe"]
+	path = fds-fe
+	url = https://github.com/RDOGS-Friendz/fds-fe.git
+[submodule "fds-be"]
+	path = fds-be
+	url = https://github.com/RDOGS-Friendz/fds-be.git
