@@ -28,6 +28,15 @@
   </a>
 </p>
 
+<p align="center">
+    <img src="https://github.com/Buuntu/fastapi-react/raw/master/assets/react-logo.png" height="50"
+            alt="react">
+    <img src="https://github.com/Buuntu/fastapi-react/raw/master/assets/fastapi-logo.png" height="50"
+         alt="fastapi">
+    <img src="https://github.com/Buuntu/fastapi-react/raw/master/assets/postgres.png" height="50"
+         alt="postgresql">
+</p>
+
 ## Table of Contents
 
 + [Introduction](#introduction)
@@ -64,6 +73,8 @@ IF, local deployment is still necessary, instructions are shown as follows:
 
 ### [Frontend](https://github.com/RDOGS-Friendz/fds-fe)
 
+<img src="https://github.com/Buuntu/fastapi-react/raw/master/assets/react-logo.png" height="25"
+            alt="react"> 
 ![](https://shields.io/badge/platform-Linux%20%7C%20macOS-%23989898?style=flat-square) [![](https://shields.io/github/stars/RDOGS-Friendz/fds-fe?style=social)](https://github.com/RDOGS-Friendz/fds-fe/tree/main)
 
 * We have deployed our frontend website on <https://fds.icheft.tech>. No need to run this app on your local environment.
@@ -113,6 +124,9 @@ You have two options:
 
 ### [Backend](https://github.com/RDOGS-Friendz/fds-be)
 
+<img src="https://github.com/Buuntu/fastapi-react/raw/master/assets/fastapi-logo.png" height="25"
+         alt="fastapi"> <img src="https://github.com/Buuntu/fastapi-react/raw/master/assets/postgres.png" height="25"
+         alt="postgresql">
 ![](https://shields.io/badge/python-v3.9-blue?style=flat-square) [![](https://shields.io/github/stars/RDOGS-Friendz/fds-be?style=social)](https://github.com/RDOGS-Friendz/fds-be/tree/main) 
 
 * We have deployed our backend website on <https://be.rdogs.dodofk.xyz/docs> (backup: <https://fdsbe.icheft.tech/docs>). No need to start the server on your local environment.
