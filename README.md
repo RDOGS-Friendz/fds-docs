@@ -22,8 +22,8 @@
          alt="website status">
   </a>
    • 
-  <a href="https://derekdylu.github.io/FDS-YT/">
-    <img src="https://shields.io/badge/views-1-red?logo=youtube&style=social"
+  <a href="https://derekdylu.github.io/FDS-YT/index">
+    <img src="https://shields.io/badge/views-0-red?logo=youtube&style=social"
          alt="YouTube Demo">
   </a>
 </p>
