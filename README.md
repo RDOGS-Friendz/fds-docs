@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://fds.icheft.tech"><img src="./logo.png" alt="fds" width="50"></a>
+  <a href="https://fds.icheft.tech"><img src="./logo.png" alt="fds" width="70"></a>
   <br>
   Friends. Do. Sports.
   <br>
