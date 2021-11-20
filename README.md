@@ -23,7 +23,7 @@
   </a>
    • 
   <a href="https://shields.io/badge/views-31k-red?logo=youtube&style=social">
-    <img src="https://shields.io/badge/views-31k-red?logo=youtube&style=social"
+    <img src="https://shields.io/badge/views-1-red?logo=youtube&style=social"
          alt="YouTube Demo">
   </a>
 </p>
