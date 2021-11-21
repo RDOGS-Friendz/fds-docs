@@ -22,8 +22,8 @@
          alt="website status">
   </a>
    • 
-  <a href="https://shields.io/badge/views-31k-red?logo=youtube&style=social">
-    <img src="https://shields.io/badge/views-31k-red?logo=youtube&style=social"
+  <a href="http://rdogs-friendz.github.io/fds-docs/yt">
+    <img src="https://shields.io/youtube/views/3hgSYxulWd4"
          alt="YouTube Demo">
   </a>
 </p>
