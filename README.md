@@ -21,8 +21,17 @@
     <img src="https://shields.io/website?down_color=red&down_message=down&up_color=success&up_message=up&style=flat-square&url=https%3A%2F%2Fbe.rdogs.dodofk.xyz%2Fdocs"
          alt="website status">
   </a>
-   • 
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/HKP0QTkvgio">
+    Introduction
+    <img src="https://shields.io/youtube/views/HKP0QTkvgio"
+         alt="YouTube Intro">
+  </a>
+  • 
   <a href="http://rdogs-friendz.github.io/fds-docs/yt">
+    Demo
     <img src="https://shields.io/youtube/views/3hgSYxulWd4"
          alt="YouTube Demo">
   </a>
